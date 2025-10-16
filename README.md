@@ -121,7 +121,7 @@ Instant messaging platform with advanced chat features
 - 📧 **Email:** [vinayagarwal8417@gmail.com](mailto:vinayagarwal8417@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/vinay-agarwal-ab0396179/](https://www.linkedin.com/in/vinay-agarwal-ab0396179/)
 - 🐙 **GitHub:** [github.com/vinayag8417](https://github.com/vinayag8417)
-- 💻 **LeetCode:** [leetcode.com/u/vinayagarwalofficial/](https://leetcode.com/u/vinayagarwalofficial/)
+- 💻 **Portfolio:** [github.com/vinayagarwalofficial/](https://github.com/vinayag8417/)
 - 📱 **Phone:** +91-7425988417
 - 📍 **Location:** Didwana, Rajasthan, India
 
