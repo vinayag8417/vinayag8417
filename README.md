@@ -99,6 +99,20 @@ Instant messaging platform with advanced chat features
 
 ---
 
+## 🏅 Coding Profiles
+
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)
+![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)
+![CodeChef](https://img.shields.io/badge/CodeChef-5B4640?style=flat-square&logo=codechef&logoColor=white)
+![Codeforces](https://img.shields.io/badge/Codeforces-1F1C3F?style=flat-square&logo=codeforces&logoColor=white)
+
+- **LeetCode:** [leetcode.com/u/vinayagarwalofficial/](https://leetcode.com/u/vinayagarwalofficial/) - 300+ Problems Solved
+- **GeeksforGeeks:** [geeksforgeeks.org/user/vinayagarwalofficial/](https://www.geeksforgeeks.org/user/vinayagarwalofficial/) - Active Contributor
+- **CodeChef:** [codechef.com/users/vinayagarwal84](https://www.codechef.com/users/vinayagarwal84) - Competitive Programmer
+- **Codeforces:** [codeforces.com/profile/vinayagarwal8417](https://codeforces.com/profile/vinayagarwal8417) - Competitive Contests
+
+---
+
 ## 🏆 Achievements
 
 - 🥈 **2nd Rank** in Debate Competition organized by IIIT Manipur (April 2024)
@@ -121,7 +135,6 @@ Instant messaging platform with advanced chat features
 - 📧 **Email:** [vinayagarwal8417@gmail.com](mailto:vinayagarwal8417@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/vinay-agarwal-ab0396179/](https://www.linkedin.com/in/vinay-agarwal-ab0396179/)
 - 🐙 **GitHub:** [github.com/vinayag8417](https://github.com/vinayag8417)
-- 💻 **Portfolio:** [github.com/vinayagarwalofficial/](https://github.com/vinayag8417/)
 - 📱 **Phone:** +91-7425988417
 - 📍 **Location:** Didwana, Rajasthan, India
 
