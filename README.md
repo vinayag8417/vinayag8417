@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Vinay Agarwal
 
-**Full-Stack Developer | MERN Stack Specialist | Cybersecurity Enthusiast**
+**Full-Stack Developer**
 
 Welcome to my GitHub! I'm a passionate developer from Rajasthan, India, currently studying at IIIT Senapati. I love building scalable web applications and exploring cybersecurity. Let's build something amazing together!
 
