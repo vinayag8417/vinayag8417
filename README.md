@@ -8,9 +8,9 @@ Welcome to my GitHub! I'm a passionate developer from Rajasthan, India, currentl
 
 ## 🚀 About Me
 
-- 🎓 **B.Tech in ECE** from Indian Institute of Information Technology Senapati, Manipur (CPI: 7.38/10)
-- 💻 Full-stack developer with expertise in **MERN Stack** and **Next.js**
-- 🔐 Cybersecurity enthusiast with penetration testing experience
+- 🎓 **B.Tech in ECE** from Indian Institute of Information Technology Senapati, Manipur (CPI: **7.38/10**)
+- 💻 Full-stack developer with expertise in **MERN** and **Next.js**
+- 🔐 Cybersecurity enthusiast with penetration testing & forensics exposure
 - 🎯 Solved **300+ coding problems** on LeetCode, GeeksforGeeks, and CodeChef
 - 📍 Based in Didwana, Rajasthan, India
 
@@ -18,107 +18,83 @@ Welcome to my GitHub! I'm a passionate developer from Rajasthan, India, currentl
 
 ## 💼 Recent Experience
 
-**Full-Stack Development Intern** @ Brainwave Matrix Solutions (Jun - Aug 2025)
-- Built **Blogify**, a full-stack blogging platform with JWT auth and image uploads (35% faster load times)
-- Developed URL Shortener with click tracking and analytics (10K+ monthly requests)
-- Reduced latency by 28% through database optimization
+**Full-Stack Development Intern — QuickIntell** _(Oct 2025 – Present, Remote)_
+- Validated **250+ API endpoints** across 5 full-stack projects with Postman (auth, edge cases, error workflows)
+- Performed **data quality testing** using Flowise AI + manual verification across modules for production readiness
+- Collaborated with devs to resolve integration bugs and ensure smooth backend communication
 
-**Cybersecurity Intern** @ C-DAC, Noida (Dec 2024 - Jan 2025)
-- Identified and mitigated 20+ security vulnerabilities (SQL injection, XSS, CSRF)
-- Built automated Python scripts for vulnerability assessments (30% efficiency boost)
-- Applied OWASP Top 10 principles for web security
+**Ethical Hacking & Penetration Testing Intern — C-DAC, Noida** _(Dec 2024 – Jan 2025, Remote)_
+- Completed intensive internship under the **Cyber Gyan Project**: Ethical Hacking, Pentesting, Network Security, DFIR
+- Analyzed **10GB+** disk images with Autopsy, FTK Imager, EnCase; recovered **150+** hidden/deleted files and documented findings
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Languages:**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-**Frontend:**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-
-**Backend:**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
-
-**Databases:**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Tools & DevOps:**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+**Languages:** JavaScript, TypeScript, Python, C++, SQL, HTML/CSS  
+**Frontend:** React.js, Next.js, Tailwind CSS, Redux, Material-UI  
+**Backend:** Node.js, Express.js, RESTful APIs, Socket.IO, JWT Auth  
+**Databases:** MongoDB, PostgreSQL, MySQL, Prisma ORM, MongoDB Atlas  
+**DevOps & Tools:** Git, GitHub, Vercel, Render, Postman, VS Code
 
 ---
 
 ## 🎯 Featured Projects
 
-### 1. **AI SaaS Application**
-🔗 [GitHub](https://github.com/vinayag8417/ai-saas-app) | [Live Demo](https://ai-saas-application-blush.vercel.app/)
+### 1) **AI SaaS Application**
+🔗 [GitHub](https://github.com/vinayag8417/ai-saas-app) • [Live Demo](https://ai-saas-application-blush.vercel.app/)
 
-Multi-functional AI platform with 5+ AI tools powered by OpenAI API
-- **Tech:** Next.js, PostgreSQL, Prisma ORM, Stripe, OpenAI API
-- **Features:** Stripe subscription system, tiered pricing, usage-based API limits, server-side rendering
-- **Highlights:** Seamless payment processing, secure authentication
+Multi-functional AI platform with 5+ tools (chat, image, video, music, code) powered by OpenAI API  
+- **Tech:** Next.js (13+), PostgreSQL, Prisma ORM, Stripe  
+- **Features:** Stripe subscriptions, tiered pricing, usage-based limits, SSR  
+- **Highlights:** Seamless payments, secure authentication
 
-### 2. **Car Rental Booking App**
-🔗 [GitHub](https://github.com/vinayag8417/Car-Rental-Booking-App) | [Live Demo](https://rentroo.vercel.app/)
+---
 
-Full-featured booking system with real-time availability and payment integration
-- **Tech:** MERN Stack, ImageKit, Razorpay API
-- **Features:** Real-time inventory management, optimized image delivery (50% faster), secure payments
-- **Highlights:** Complete booking workflow, transaction history tracking
+### 2) **Car Rental Booking App**
+🔗 [GitHub](https://github.com/vinayag8417/Car-Rental-Booking-App) • [Live Demo](https://rentroo.vercel.app/)
 
-### 3. **Full-Stack Social Media App**
-🔗 [GitHub](https://github.com/vinayag8417/social-media-app) | [Live Demo](https://full-stack-social-media-app-q1f4.onrender.com)
+Full-featured booking with real-time availability & payments  
+- **Tech:** MERN, ImageKit, Razorpay  
+- **Features:** Inventory management, optimized images (~50% faster loads), secure payments  
+- **Highlights:** End-to-end booking flow, transaction history
 
-Feature-rich social platform with real-time messaging
-- **Tech:** MERN Stack, Socket.IO, JWT Authentication
-- **Features:** Real-time chat, user profiles, posts, comments, social interactions
-- **Highlights:** 40% faster query response times, role-based access control
+---
 
-### 4. **Real-Time Chat Application**
-🔗 [GitHub](https://github.com/vinayag8417/chat-app) | [Live Demo](https://chat-app-u5nu.onrender.com)
+### 3) **Full-Stack Social Media App**
+🔗 [GitHub](https://github.com/vinayag8417/social-media-app) • [Live Demo](https://full-stack-social-media-app-q1f4.onrender.com)
 
-Instant messaging platform with advanced chat features
-- **Tech:** MERN Stack, Socket.IO, MongoDB
-- **Features:** Typing indicators, read receipts, media sharing, online/offline status
-- **Highlights:** Persistent message storage, notification system
+Feature-rich social platform with real-time messaging  
+- **Tech:** MERN, Socket.IO, JWT  
+- **Features:** Chat, profiles, posts, comments, interactions  
+- **Highlights:** ~40% faster DB queries, role-based access
+
+---
+
+### 4) **Real-Time Chat Application**
+🔗 [GitHub](https://github.com/vinayag8417/chat-app) • [Live Demo](https://chat-app-u5nu.onrender.com)
+
+Instant messaging with modern chat UX  
+- **Tech:** MERN, Socket.IO, MongoDB  
+- **Features:** Typing indicators, read receipts, media sharing, presence  
+- **Highlights:** Persistent storage, notifications
 
 ---
 
 ## 🏅 Coding Profiles
 
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)
-![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)
-![CodeChef](https://img.shields.io/badge/CodeChef-5B4640?style=flat-square&logo=codechef&logoColor=white)
-![Codeforces](https://img.shields.io/badge/Codeforces-1F1C3F?style=flat-square&logo=codeforces&logoColor=white)
-
-- **LeetCode:** [leetcode.com/u/vinayagarwalofficial/](https://leetcode.com/u/vinayagarwalofficial/) - 300+ Problems Solved
-- **GeeksforGeeks:** [geeksforgeeks.org/user/vinayagarwalofficial/](https://www.geeksforgeeks.org/user/vinayagarwalofficial/) - Active Contributor
-- **CodeChef:** [codechef.com/users/vinayagarwal84](https://www.codechef.com/users/vinayagarwal84) - Competitive Programmer
-- **Codeforces:** [codeforces.com/profile/vinayagarwal8417](https://codeforces.com/profile/vinayagarwal8417) - Competitive Contests
+- **LeetCode:** https://leetcode.com/u/vinayagarwalofficial/  
+- **GeeksforGeeks:** https://www.geeksforgeeks.org/user/vinayagarwalofficial/  
+- **CodeChef:** https://www.codechef.com/users/vinayagarwal84  
+- **Codeforces:** https://codeforces.com/profile/vinayagarwal8417
 
 ---
 
 ## 🏆 Achievements
 
-- 🥈 **2nd Rank** in Debate Competition organized by IIIT Manipur (April 2024)
-- 💯 Solved **300+ Coding Problems** across LeetCode, GeeksforGeeks, CodeChef
-- 📜 Completed industry-recognized certifications in Full-Stack Development & Cybersecurity
-- 🔒 Identified and mitigated 20+ security vulnerabilities in real-world applications
+- 🥈 **2nd Rank** — Debate Competition, IIIT Manipur (Apr 2024)  
+- 🎓 **Elite (Top 5%)** — NPTEL: Introduction to IoT, IIT Kharagpur (Score: 86%)  
+- 💯 Solved **300+** coding problems (DSA-focused) across platforms
 
 ---
 
@@ -132,26 +108,25 @@ Instant messaging platform with advanced chat features
 
 ## 📬 Let's Connect
 
-- 📧 **Email:** [vinayagarwal8417@gmail.com](mailto:vinayagarwal8417@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/vinay-agarwal-ab0396179/](https://www.linkedin.com/in/vinay-agarwal-ab0396179/)
-- 🐙 **GitHub:** [github.com/vinayag8417](https://github.com/vinayag8417)
-- 📱 **Phone:** +91-7425988417
+- 📧 **Email:** [vinayagarwal8417@gmail.com](mailto:vinayagarwal8417@gmail.com)  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/vinay-agarwal-ab0396179/  
+- 🐙 **GitHub:** https://github.com/vinayag8417  
+- 📱 **Phone:** +91-7425988417  
 - 📍 **Location:** Didwana, Rajasthan, India
 
 ---
 
 ## 🤝 Open to Opportunities
 
-I'm actively looking for opportunities in:
-- Full-Stack Development
-- Frontend/Backend Development
-- Cybersecurity & Penetration Testing
+- Full-Stack Development  
+- Frontend/Backend Development  
+- Cybersecurity & Penetration Testing  
 - Freelance Projects
 
-Feel free to reach out if you'd like to collaborate or discuss any exciting opportunities!
+If you’d like to collaborate or discuss opportunities, feel free to reach out!
 
 ---
 
-⭐ **If you find my projects interesting, don't forget to star them!** ⭐
+⭐ **If you find my projects interesting, don’t forget to star them!** ⭐
 
-*Last updated: October 2025*
+*Last updated: **November 2025***
